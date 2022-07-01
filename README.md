@@ -8,6 +8,8 @@ Models and Autotune logs: https://drive.google.com/file/d/1PpGrdaO_wZUUIrvfox4Ub
 
 Data: https://drive.google.com/file/d/1TTi9-XAcz7yzTJBW7gjOfgnuyCI5rUu8/view?usp=sharing
 
+In case the file expires, I will keep all the data in gpu11. 
+
 ----------------------------------------------------------------
 
 Food 101 and Dogs vs Cats Data: 
